@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&family=Suez+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+.win1 {
+  /* display: inline-flex; */
+}
+.win2 {
+
+}
+body {
+  /* background-color: #393E46; */
+  background-color: #343F56;
+}
+
+h1 {
+  margin: 30px;
+  /* font-family: 'Lobster', cursive; */
+  /* font-family: 'Staatliches', cursive; */
+  /* font-family: 'Suez One', serif; */
+  font-family: 'Squada One', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  /* color: #4ECCA3; */
+  color: #e1f1dd;
+  cursor: pointer;
+}
+h1:hover {
+  color: #a2ff8b;
+}
+
+p {
+  font-size: 2rem;
+  /* color: #4ECCA3; */
+  color: #e1f1dd;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
